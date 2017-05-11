@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clubOcio>
+    <cuotas>
+        <base valor="30"/>
+        <cuota tipo="A">
+            <incremento>0.20</incremento>
+        </cuota>
+        <cuota tipo="B">
+            <incremento>0.15</incremento>
+        </cuota>
+        <cuota tipo="C">
+            <incremento>0.10</incremento>
+        </cuota>
+        <cuota tipo="D">
+            <incremento>0</incremento>
+        </cuota>
+    </cuotas>
+    <socios>
+        <socio tipo="A">
+            <nombre>Fernando</nombre>
+            <apellido1>García</apellido1>
+            <apellido2>García</apellido2>
+            <fecha_nacimiento dia="11" mes="08" año="1973"/>
+            <coutasDebidas>0</coutasDebidas>
+        </socio>
+        
+        <socio tipo="B">
+            <nombre>María</nombre>
+            <apellido1>Gómez</apellido1>
+            <apellido2>Hernández</apellido2>
+            <fecha_nacimiento dia="17" mes="07" año="1983"/>
+            <coutasDebidas>2</coutasDebidas>
+        </socio>
+        
+        <socio tipo="A">
+            <nombre>Eduardo</nombre>
+            <apellido1>Gutierrez</apellido1>
+            <apellido2>Pérez</apellido2>
+            <fecha_nacimiento dia="20" mes="09" año="2000"/>
+            <coutasDebidas>3</coutasDebidas>
+        </socio>
+        
+        <socio tipo="B">
+            <nombre>Elena</nombre>
+            <apellido1>Alonso</apellido1>
+            <apellido2>Perlado</apellido2>
+            <fecha_nacimiento dia="21" mes="12" año="1976"/>
+            <coutasDebidas>7</coutasDebidas>
+        </socio>
+        
+        <socio tipo="C">
+            <nombre>Juan Pedro</nombre>
+            <apellido1>Alcantara</apellido1>
+            <apellido2>Gómez</apellido2>
+            <fecha_nacimiento dia="01" mes="02" año="1980"/>
+            <coutasDebidas>3</coutasDebidas>
+        </socio>
+        
+        <socio tipo="C">
+            <nombre>Emilio</nombre>
+            <apellido1>Briz</apellido1>
+            <apellido2>Peinado</apellido2>
+            <fecha_nacimiento dia="13" mes="09" año="1976"/>
+            <coutasDebidas>3</coutasDebidas>
+        </socio>
+        
+        <socio tipo="D">
+            <nombre>Alberto</nombre>
+            <apellido1>Cubino</apellido1>
+            <apellido2>Miguel</apellido2>
+            <fecha_nacimiento dia="18" mes="03" año="1973"/>
+            <coutasDebidas>0</coutasDebidas>
+        </socio>
+        
+        <socio tipo="A">
+            <nombre>Lucía</nombre>
+            <apellido1>López</apellido1>
+            <apellido2>Sánchez</apellido2>
+            <fecha_nacimiento dia="22" mes="07" año="1970"/>
+            <coutasDebidas>0</coutasDebidas>
+        </socio>
+        
+        <socio tipo="D">
+            <nombre>Pedro José</nombre>
+            <apellido1>Gutierrez</apellido1>
+            <apellido2>Herrero</apellido2>
+            <fecha_nacimiento dia="30" mes="05" año="1983"/>
+            <coutasDebidas>0</coutasDebidas>
+        </socio>
+        
+        <socio tipo="B">
+            <nombre>Antonia</nombre>
+            <apellido1>Caceres</apellido1>
+            <apellido2>Muro</apellido2>
+            <fecha_nacimiento dia="26" mes="02" año="1970"/>
+            <coutasDebidas>0</coutasDebidas>
+        </socio>
+        
+        <socio tipo="C">
+            <nombre>Cecilia</nombre>
+            <apellido1>Torres</apellido1>
+            <apellido2>Casado</apellido2>
+            <fecha_nacimiento dia="05" mes="02" año="1970"/>
+            <coutasDebidas>3</coutasDebidas>
+        </socio>
+        
+    </socios>
+</clubOcio>
