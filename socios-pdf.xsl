@@ -10,7 +10,7 @@
             </fo:simple-page-master>
         </fo:layout-master-set>
     
-        <fo:page-sequence master-reference="Tabla">
+        <fo:simple-page-master>
             <fo:flow flow-name="xsl-region-body">
                 <fo:table border="1pt solid black" text-align="center">
                     <fo:table-body>
@@ -43,7 +43,7 @@
                     </fo:table-body>
                 </fo:table>
             </fo:flow>
-        </fo:page-sequence>
+        </fo:simple-page-master>
         
     </fo:root>
 
